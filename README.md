@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-My name is Kenny, and I'm a software engineer with 4 years of professional experience. Here on GitHub I have projects,
+My name is Kenny, and I'm a software engineer with 5 years of professional experience. Here on GitHub I have projects,
 games, and tools I've worked on for myself and others. My favorite language is Java and I love making clean
 and efficient code. I am a quick learner and I am always eager to work with new technologies and frameworks.
 
