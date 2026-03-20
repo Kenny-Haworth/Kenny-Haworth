@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> I'm Kenny!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenny-haworth&theme=darkhub&rank=SSS,SS,S,AAA,AA,A" alt="kenny-haworth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=kenny-haworth&theme=darkhub&rank=SSS,SS,S,AAA,AA,A" alt="kenny-haworth" /></a> </p>
 
 ## Who am I?
 
