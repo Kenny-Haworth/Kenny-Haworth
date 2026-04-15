@@ -10,8 +10,12 @@ and efficient code. I am a quick learner and I am always eager to work with new 
 
 ## Languages
 
-![Languages](https://skillicons.dev/icons?i=java,rust,c,cpp,py,matlab,bash)
+![Languages](https://skillicons.dev/icons?i=java,c,cpp,rust,py,matlab,bash)
 
 ## Tools and Frameworks
 
-![Languages](https://skillicons.dev/icons?i=vscode,git,github,gitlab,godot,linux,windows,apple)
+![Languages](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,vscode,git,github,gitlab,godot,vim)
+
+## Operating Systems
+
+![Languages](https://skillicons.dev/icons?i=redhat,linux,ubuntu,raspberrypi,windows,apple)
